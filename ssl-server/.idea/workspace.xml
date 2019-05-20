@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d2e78b3-2edc-4be6-acfa-b8923968a5a0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ssl-client/src/main/java/client.p12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ssl-client/src/main/java/keystore.jks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ssl-client/src/main/java/bytes.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/anujaneja/springboothelloworld/controllers/SecurityConfig.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../externalConfig/externalConfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/.idea/artifacts/spring_mvc_example_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/.idea/libraries/Spring_4_3_13_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/.idea/libraries/Spring_MVC_4_3_13_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/commons-logging-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-aop-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-aspects-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-beans-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-context-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-context-support-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-core-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-expression-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-instrument-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-instrument-tomcat-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-jdbc-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-jms-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-messaging-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-orm-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-oxm-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-test-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-tx-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-web-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-webmvc-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-webmvc-portlet-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/lib/spring-websocket-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/classes/com/anujaneja/springMVC/controllers/IndexController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/classes/com/anujaneja/springMVC/controllers/TestController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/dispatcher-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-aop-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-aspects-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-beans-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-context-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-context-support-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-core-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-expression-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-instrument-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-instrument-tomcat-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-jdbc-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-jms-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-messaging-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-orm-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-oxm-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-test-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-tx-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-web-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-webmvc-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-webmvc-portlet-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/lib/spring-websocket-4.3.13.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/views/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/artifacts/spring_mvc_example_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/production/spring-mvc-example/com/anujaneja/springMVC/controllers/IndexController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/out/production/spring-mvc-example/com/anujaneja/springMVC/controllers/TestController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/spring-mvc-example.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/src/com/anujaneja/springMVC/controllers/IndexController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/src/com/anujaneja/springMVC/controllers/TestController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/web/WEB-INF/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/web/WEB-INF/dispatcher-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/web/WEB-INF/views/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring-mvc-example/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/artifacts/spring_mvc_hibernate_spring_security_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/artifacts/spring_mvc_hibernate_spring_security_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__com_fasterxml_classmate_1_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_31.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_11_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_1_3_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_security_spring_security_acl_4_0_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_0_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_0_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_4_0_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_0_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_spring_orm_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/libraries/lib.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/spring-mvc-hibernate-spring-security.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/springmvchibernatespringsecurity.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/configuration/AppConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/configuration/AppInitializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/configuration/HibernateConfiguration.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/configuration/SecurityConfiguration.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/controllers/AppController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/converter/RoleToUserProfileConverter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/dao/AbstractDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/dao/HibernateTokenRepositoryImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/dao/UserDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/dao/UserDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/dao/UserProfileDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/dao/UserProfileDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/model/PersistentLogin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/model/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/model/UserProfile.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/model/UserProfileType.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/security/CustomUserDetailsService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/security/SecurityWebApplicationInitializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/service/UserProfileService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/service/UserProfileServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/service/UserService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/service/UserServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/java/com/anujaneja/util/QuickPasswordEncodingGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/main.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/resources/application-dev.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/resources/application-prod.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/resources/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/resources/message.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/webapp/WEB-INF/views/accessDenied.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/webapp/WEB-INF/views/authheader.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/webapp/WEB-INF/views/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/webapp/WEB-INF/views/registration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/webapp/WEB-INF/views/registrationsuccess.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/webapp/WEB-INF/views/userslist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/webapp/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/webapp/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/webapp/static/css/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvchibernatespringsecurity/src/main/webapp/static/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/artifacts/springmvcmaven_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/artifacts/springmvcmaven_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/springmvcmaven.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/src/main/java/com/anujaneja/controllers/HomeController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/src/main/webapp/WEB-INF/views/home/home.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/src/main/webapp/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/src/main/webapp/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/classes/com/anujaneja/controllers/HomeController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/classes/com/anujaneja/controllers/HomeController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/dispatcher-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/lib/commons-logging-1.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/lib/spring-aop-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/lib/spring-beans-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/lib/spring-context-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/lib/spring-core-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/lib/spring-expression-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/lib/spring-web-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/lib/spring-webmvc-4.0.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/views/home.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/views/home/home.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/spring-mvc-maven/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/work/jsp/org/apache/jsp/WEB_002dINF/views/home/home_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../springmvcmaven/target/work/jsp/org/apache/jsp/index_jsp.class" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/anujaneja/springboothelloworld/controllers/HomeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringBootHelloWorldApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/anujaneja/springboothelloworld/SpringBootHelloWorldApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecurityConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/anujaneja/springboothelloworld/controllers/SecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="38" column="68" lean-forward="false" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/anujaneja/springboothelloworld/controllers/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/anujaneja/springboothelloworld/controllers/HomeController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-boot-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssl-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssl-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssl-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssl-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssl-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboothelloworld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssl-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboothelloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-hello-world" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssl-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootHelloWorldApplication">
+    <configuration name="SpringBootHelloWorldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.anujaneja.springboothelloworld.SpringBootHelloWorldApplication" />
+      <module name="spring-boot-hello-world" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d2e78b3-2edc-4be6-acfa-b8923968a5a0" name="Default" comment="" />
+      <created>1558288415651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558288415651</updated>
+      <workItem from="1558288420871" duration="5414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5414000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4197349" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/anujaneja/springboothelloworld/controllers/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="38" column="68" lean-forward="false" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/anujaneja/springboothelloworld/SpringBootHelloWorldApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/anujaneja/springboothelloworld/controllers/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|spring-boot-hello-world</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
